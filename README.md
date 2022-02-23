@@ -2,7 +2,18 @@
 - 👀 I’m interested in learning how to use Markdown in documentation.
 - 🌱 I’m currently learning about Markdown.
 - 💞️ I’m looking to collaborate on ideas on how to use Markdown in webpages and email.
+  <<<<<<< HEAD
 - 📫 How to reach me: Email me. Change made in testbranch 3.
+  ==========================================================
+- 📫 How to reach me: Email me. Change made in testbranch 2.
+
+>>>>>>> 287637c (added a sentence)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 <!---
 prasi555/prasi555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
