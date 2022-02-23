@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ideas on how to use Markdown in webpages and email.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <<<<<<< HEAD
 - 📫 How to reach me: Email me. Change made in testbranch 3.
   ==========================================================
@@ -19,6 +20,9 @@
 =======
 - 📫 How to reach me: Email me. Change made in testbranch.
 >>>>>>> 287637c (added a sentence)
+=======
+- 📫 How to reach me: Email me. Change made in testbranch.
+>>>>>>> f7149f3 (second change)
 =======
 - 📫 How to reach me: Email me. Change made in testbranch.
 >>>>>>> f7149f3 (second change)
